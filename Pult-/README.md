@@ -1,6 +1,6 @@
-# 🎛️ CONTROLLER — Carte de contrôle pour engins industriels
+# 🎛️ CONTROLLER - Carte de contrôle pour engins industriels
 
-Carte électronique conçue pour **FS Technologies**, destinée au **contrôle d'engins industriels** (type Caterpillar et autres équipements lourds).
+Carte électronique conçue pour **FS Technologies https://fst42.ru**, destinée au **contrôle d'engins industriels** (type Caterpillar et autres équipements lourds).
 
 ## 📋 Description
 
