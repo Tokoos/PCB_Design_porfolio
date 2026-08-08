@@ -10,7 +10,7 @@ Fonctionnellement, la carte réceptionne les signaux bruts des encodeurs (**cana
 
 | Composant | Rôle |
 |---|---|
-| **STM32F103T8U6** | Microcontrôleur principal — traitement des signaux de quadrature |
+| **STM32F103T8U6** | Microcontrôleur principal - traitement des signaux de quadrature |
 | **FT232RQ** | Convertisseur USB vers UART pour la communication avec le PC |
 | **USBLC6-2SC6** | Protection ESD sur la ligne USB |
 | **USB4085-GF-A REVA** | Connecteur/protection USB |
