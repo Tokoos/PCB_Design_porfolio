@@ -1,10 +1,10 @@
-# 🧭 LINCODER — Carte électronique
+# 🧭 Carte électronique d'interfaçage CAN/UART
 
-Carte électronique conçue pour **FS Technologies**, la **LINCODER**.
+Carte électronique conçue dans le cadre de mon expérience professionnelle.
 
 ## 📋 Description
 
-La carte **LINCODER** assure l'acquisition et le traitement de données via les interfaces **CAN** et **UART**, permettant son intégration dans des systèmes industriels nécessitant une communication fiable avec d'autres équipements ou modules.
+Cette carte assure l'acquisition et le traitement de données via les interfaces **CAN** et **UART**, permettant son intégration dans des systèmes industriels nécessitant une communication fiable avec d'autres équipements ou modules.
 
 ## 🛠️ Matériel utilisé
 
@@ -40,11 +40,18 @@ Toute la conception matérielle (schémas et routage) a été réalisée sur **A
 | Caractéristique | Détail |
 |---|---|
 | Nombre de couches | 2 couches |
+| Documentation de production | BOM, plan d'assemblage, fichiers Gerber |
 
-## 📦 Dossier de production
+## 🚀 Applications possibles
 
-- 📋 **BOM** (Bill of Materials)
-- 📐 **Plan d'assemblage**
-- 🏭 **Fichiers Gerber**
+- Intégration dans des systèmes de bus CAN industriels
+- Interfaçage avec équipements de mesure et de contrôle
+- Solutions embarquées pour environnements industriels
 
-## 📁 Contenu du dépôt
+## 📌 Statut du projet
+
+🔧 Projet réalisé dans un cadre professionnel
+
+## 📫 Contact
+
+Pour toute question ou suggestion : houndjetodej2@mail.com
