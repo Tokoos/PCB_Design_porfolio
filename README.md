@@ -6,4 +6,4 @@ Stack technique : C/C++ Python Altium KiCad Proteus Simulink Fusion 360 Platform
 
 Langues : 🇫🇷 Français (natif) · 🇷🇺 Russe (B2) · 🇬🇧 Anglais (B1)
 
-📫 Contact : houndjetodej2@mail.com
+📫 Contact : houndjetodej@mail.ru
