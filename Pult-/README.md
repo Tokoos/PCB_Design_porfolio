@@ -10,7 +10,7 @@ La carte **CONTROLLER** permet de piloter et superviser des engins industriels v
 
 | Composant | Rôle |
 |---|---|
-| **ESP32** | Microcontrôleur principal — traitement et connectivité |
+| **ESP32** | Microcontrôleur principal - traitement et connectivité |
 | **LoRa** | Transmission de données longue portée, faible consommation |
 | **Écran TFT** | Interface d'affichage et de contrôle local |
 
