@@ -10,7 +10,7 @@ Cette carte permet de détecter la présence, la distance et/ou le mouvement d'o
 
 | Composant | Rôle |
 |---|---|
-| **ESP32** | Microcontrôleur principal — traitement et connectivité |
+| **ESP32** | Microcontrôleur principal - traitement et connectivité |
 | **Module Radar** | Détection de présence, distance et/ou mouvement d'objets |
 
 ## 🔗 Communications utilisées
@@ -57,4 +57,4 @@ Toute la conception matérielle (schémas et routage) a été réalisée sur **A
 
 ## 📫 Contact
 
-Pour toute question ou suggestion : houndjetodej2@mail.com
+Pour toute question ou suggestion : houndjetodej@mail.ru
