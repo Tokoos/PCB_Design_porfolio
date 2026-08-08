@@ -1,4 +1,4 @@
-# 📡 RADAR — Carte de détection d'objets
+# 📡 RADAR - Carte de détection d'objets
 
 Carte électronique conçue pour **FS Technologies**, destinée à la **détection d'objets** via un module radar.
 
@@ -10,7 +10,7 @@ La carte **RADAR** permet de détecter la présence, la distance et/ou le mouvem
 
 | Composant | Rôle |
 |---|---|
-| **ESP32** | Microcontrôleur principal — traitement et connectivité |
+| **ESP32** | Microcontrôleur principal - traitement et connectivité |
 | **Module Radar** | Détection de présence, distance et/ou mouvement d'objets |
 
 ## 🔗 Communications utilisées
