@@ -1,4 +1,4 @@
-# 🔌 ESP32 Type-C — Carte de développement
+# 🔌 ESP32 Type-C - Carte de développement
 
 Carte de développement basée sur le microcontrôleur **ESP32**, équipée d'un port **USB Type-C** pour une alimentation et une programmation rapides et pratiques.
 
@@ -24,7 +24,7 @@ Grâce à sa puissance, sa faible consommation d'énergie et ses nombreuses entr
 
 ## 🛠️ Outils de conception
 
-- **Altium Designer** — Conception du schéma et du PCB
+- **Altium Designer** - Conception du schéma et du PCB
 - Fichiers de production : Gerber, BOM, plan d'assemblage
 
 ## 📁 Contenu du dépôt
