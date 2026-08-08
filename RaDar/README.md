@@ -1,16 +1,16 @@
-# 📡 RADAR - Carte de détection d'objets
+# 📡 Carte de détection d'objets par radar
 
-Carte électronique conçue pour **FS Technologies**, destinée à la **détection d'objets** via un module radar.
+Carte électronique conçue dans le cadre de mon expérience professionnelle, destinée à la **détection d'objets** via un module radar.
 
 ## 📋 Description
 
-La carte **RADAR** permet de détecter la présence, la distance et/ou le mouvement d'objets à l'aide d'un capteur radar, avec traitement embarqué des données via un microcontrôleur ESP32.
+Cette carte permet de détecter la présence, la distance et/ou le mouvement d'objets à l'aide d'un capteur radar, avec traitement embarqué des données via un microcontrôleur ESP32.
 
 ## 🛠️ Matériel utilisé
 
 | Composant | Rôle |
 |---|---|
-| **ESP32** | Microcontrôleur principal - traitement et connectivité |
+| **ESP32** | Microcontrôleur principal — traitement et connectivité |
 | **Module Radar** | Détection de présence, distance et/ou mouvement d'objets |
 
 ## 🔗 Communications utilisées
@@ -42,11 +42,19 @@ Toute la conception matérielle (schémas et routage) a été réalisée sur **A
 | Caractéristique | Détail |
 |---|---|
 | Nombre de couches | 2 couches |
+| Documentation de production | BOM, plan d'assemblage, fichiers Gerber |
 
-## 📦 Dossier de production
+## 🚀 Applications possibles
 
-- 📋 **BOM** (Bill of Materials)
-- 📐 **Plan d'assemblage**
-- 🏭 **Fichiers Gerber**
+- Détection d'objets ou d'obstacles
+- Systèmes de sécurité industrielle
+- Comptage ou suivi de présence
+- Automatisation et supervision d'équipements
 
-## 📁 Contenu du dépôt
+## 📌 Statut du projet
+
+🔧 Projet réalisé dans un cadre professionnel
+
+## 📫 Contact
+
+Pour toute question ou suggestion : houndjetodej2@mail.com
