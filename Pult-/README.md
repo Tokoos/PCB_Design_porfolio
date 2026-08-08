@@ -64,4 +64,4 @@ Toute la conception matérielle (schémas, routage et contrôle d'impédance) a 
 
 ## 📫 Contact
 
-Pour toute question ou suggestion : houndjetodej2@mail.com
+Pour toute question ou suggestion : houndjetodej@mail.ru
